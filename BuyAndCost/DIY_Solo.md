@@ -233,6 +233,15 @@ Having that in the room is always a good idea ;)-
 https://www.amazon.fr/Pistolet-Colle-Chaude-Artisanat-Bureau-Bleuge/dp/B09BQSQM7V/ref=sr_1_7?crid=1Q2KEQ0BUN0TN&keywords=glue+pistolet&qid=1696873443&sprefix=glue+pist%2Caps%2C77&sr=8-7
 
 
+# Multi meter
+
+The workshop don't explore the complexity of understand volt and amp.
+But it is always good to have several of those in a workshop to let's explain how electricity works:
+![image](https://github.com/EloiStree/HelloCarRC/assets/20149493/ada3fa4c-dd29-443a-9c2d-1a4459e3f32d)
+https://www.amazon.fr/s?k=multi+meter&__mk_fr_FR=ÅMÅŽÕÑ&crid=23UCV2D0IUPJL&sprefix=multi+meter%2Caps%2C79&ref=nb_sb_noss_2
+
+
+
 
 
 --------------------------
