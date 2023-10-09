@@ -1,5 +1,8 @@
 Hello to you. 
 
+Temu affiliate link: https://temu.to/m/uymn2qzzu6f
+Want to help me: Buy here your hardware donate me 20% of the.
+
 > Big reminder: if you want the hardware fast Amazon is good.   
 > But if you want to have a low cost I tip to use [Alibaba](https://www.alibaba.com/trade/search?spm=a2700.product_home_newuser.home_new_user_first_screen_fy23_pc_search_bar.keydown__Enter&tab=all&searchText=arduino+raspberry+pi+pico) or [Temu](https://www.temu.com/search_result.html?search_key=arduino%20raspberry%20pico&search_method=user&refer_page_el_sn=200010&srch_enter_source=top_search_entrance_10005&_x_msgid=20-20230623-14-O-614348420509847552-102-aiDYiFNi&_x_src=mail&_x_sessn_id=k01v9558fn&refer_page_name=home&refer_page_id=10005_1696868573277_tjbb5crxsq&refer_page_sn=10005)
 > *Amazon link are affiliate, 
