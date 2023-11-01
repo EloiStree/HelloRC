@@ -3,7 +3,7 @@
 
 Nous allons apprendre à créer des voitures virtuelles dans Unity3D qui se comporte comme des voitures de la marque Exost.
 
-Cette atelier à un but d'apprentissage orienter vers C# et Unity3D pour débutant.  
+Cette atelier à un but d'apprentissage orienter vers C# et Unity3D entant que débutant.  
 D'autre ateliers portent plus sur la partie électrique, hack et "internet of thing" du concepte.  
 
 [![image_2023-11-01_142609481-removebg-preview](https://github.com/EloiStree/HelloCarRC/assets/20149493/bc2c47b3-9094-4de9-9ede-b6926800119e)](https://amzn.to/46TTSzI)
