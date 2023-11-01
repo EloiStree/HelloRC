@@ -110,9 +110,9 @@ L'atelier est adapté à quatre public
   - Je suis expert sur le sujet de l'atelier et je suis à votre disposition pour vos questions
   - Je vous invite à faire l'atelier mais à aller explorer les sujets de l'atelier plus en profondeur. 
   -  La particularité de ce projet est :
-    - de pouvoir être jouer en coopération à la fin de l'atelier
-    - de pouvoir être jouer en VR pour le fun à la fin de l'atelier
-    - de pouvoir jouer avec les vrai voitures Exost comme vous l'auriez fait dans l'atelier.
+     - de pouvoir être jouer en coopération à la fin de l'atelier
+     - de pouvoir être jouer en VR pour le fun à la fin de l'atelier
+     - de pouvoir jouer avec les vrai voitures Exost comme vous l'auriez fait dans l'atelier.
 
 
 # Contrainte de l'atelier
