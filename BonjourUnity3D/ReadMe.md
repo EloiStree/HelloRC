@@ -19,7 +19,7 @@ L'atelier est organiser sur 5 jours.
 
 Durant l'atelier:
 - Les casques de réalité virtuelle sont présent avec la démo du jeu qui sera utiliser le jour 5.
-- Les voitures Exost sont présent pour être utiliser durant les pauses et par participants plus aggéri.
+- Les voitures Exost sont présent pour être utiliser durant les pauses et pour les participants plus aggéri.
   
 ## Objectif 
 - Explorer les bases de Unity3D
