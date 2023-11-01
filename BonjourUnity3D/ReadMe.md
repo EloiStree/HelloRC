@@ -26,10 +26,10 @@ Durant l'atelier:
 - Explorer les bases de la programmation avec C#
 - Mise en bouche à l'utilitée et la simplicité du Bluetooth pour jouer avec le monde qui nous entours.
 
-🎯 Le but de l'atelier n'est pas de maitriser mais d'explorer.
-😊 Pas de panique, des boites à outils sont préparées pour vous en fonction de votre niveau.
-🚨 J'aime pouvoir rester simple pour les débutants mais technique pour les personnes plus initiées.  
-C'est pourquoi l'atelier à des objectifs avec plusieurs niveaux 😁
+🎯 Le but de l'atelier n'est pas de maitriser mais d'explorer.  
+😊 Pas de panique, des boites à outils sont préparées pour vous en fonction de votre niveau.  
+🚨 J'aime pouvoir rester simple pour les débutants mais technique pour les personnes plus initiées.    
+C'est pourquoi l'atelier à des objectifs avec plusieurs niveaux 😁  
 
 
 ## Objectif de fin d'atelier
