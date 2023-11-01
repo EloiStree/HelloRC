@@ -112,7 +112,7 @@ L'atelier est adapté à quatre public
   -  La particularité de ce projet est :
      - de pouvoir être jouer en coopération à la fin de l'atelier
      - de pouvoir être jouer en VR pour le fun à la fin de l'atelier
-     - de pouvoir jouer avec les vrai voitures Exost comme vous l'auriez fait dans l'atelier.
+     - de pouvoir jouer avec les vrai voitures Exost depuis du code
 
 
 # Contrainte de l'atelier
