@@ -146,10 +146,10 @@ http://eloistree.github.io/r/discord
 https://www.linkedin.com/in/eloistree/  
 
 **Pour une demande propore à l'atelier à La Louvière:**  
-Vous pouvez contacter Guénaël via ["300 GAMING SPACE"](https://www.lalouviere.be/loisirs/culture/bibliotheques/actualites/300-gaming-space-un-pole-jeux-video-a-houdeng):
-[Chaussée Paul Houtart, 300 - 7110 Houdeng-Goegnies](https://maps.app.goo.gl/hfouJ5wBncgeBWDE7)  
-bibliothequecommunale@lalouviere.be  
-Facebook : [300gamingspace](https://www.facebook.com/300gamingspace)https://www.facebook.com/300gamingspace  
+Vous pouvez contacter Guénaël via ["300 GAMING SPACE"](https://www.lalouviere.be/loisirs/culture/bibliotheques/actualites/300-gaming-space-un-pole-jeux-video-a-houdeng) :  
+[Chaussée Paul Houtart, 300 - 7110 Houdeng-Goegnies](https://maps.app.goo.gl/hfouJ5wBncgeBWDE7)   
+bibliothequecommunale@lalouviere.be    
+Facebook : [300gamingspace](https://www.facebook.com/300gamingspace)https://www.facebook.com/300gamingspace    
 
 
 # Re-organiser l'atelier ?
