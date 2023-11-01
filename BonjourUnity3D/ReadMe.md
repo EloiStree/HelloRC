@@ -13,7 +13,7 @@ L'atelier proposé peut-être annulé au besoin de "300 Gaming Space".
 
 Nous allons apprendre à créer des voitures virtuelles dans Unity3D qui se comporte comme des voitures de la marque Exost.
 
-Cette atelier à un but d'apprentissage orienter vers C# et Unity3D entant que débutant.  
+Cette atelier à un but d'apprentissage orienter vers C# et Unity3D pour un niveau débutant.  
 D'autre ateliers portent plus sur la partie électrique, hack et "internet of thing" du concepte.  
 
 Ce que je vous propose c'est de vous faire découvrir la simplicité de créé des jeux avec l'outil Unity3D.
