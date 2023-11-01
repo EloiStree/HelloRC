@@ -61,18 +61,15 @@ Pour les experts (*) :
 _(*) L'atelier est pour junior, mais des participants avec un niveau plus avancé sont les bienvenu. Les sujets proposéent en expert sont des sujets que j'ai exploré moi-même pour l'atelier dans le but d'illustrer ce que l'on peut faire en étudiant dans la direction de l'atelier._
 
 
-## Niveau de l'atelier
-
-L'atelier reprend les bases au plus bas pour être accessible à tous.
-Mais reste technique pour les participants plus agairi. 
+## Niveau pour participer à l'atelier
 
 L'atelier est adapté à quatre public
-- Vous êtes totalement nouveau et vous connaissez rien à l'informatique
+- Vous êtes totalement nouveau et vous ne connaissez rien à l'informatique
   - **Requis:** Vous avez l'envie d'apprendre 
 - Vous êtes passionné par les jeux vidéos ou l'informatique
   - **Requis:** Vous avez l'envie d'ouvrir Unity pour faire des jeux dans le future
 - Vous savez déjà programmer et voulez apprendre à utiliser Unity3D
-  - **Requis:** laisser du temps au autre participant d'avancer à leur allure
+  - **Requis:** laisser du temps au autre participants d'avancer à leur allure
   - Je suis présent pendant l'atelier pour tout question qui vous aide à débuter sur Unity.
   - Le code du projet est sur GitHub pour vous permet apprendre par l'observation 
 - Vous êtes expert et le sujet de l'atelier vous intéresse
@@ -80,8 +77,8 @@ L'atelier est adapté à quatre public
   - Je suis expert sur le sujet de l'atelier et je suis à votre disposition pour vos questions
   - Je vous invite à faire l'atelier mais à aller explorer les sujets de l'atelier plus en profondeur. 
   -  La particularité de ce projet est :
-    - de pouvoir etre jouer en VR pour le fun à la fin de l'atelier
-    - de pouvoir jouer avec les vrai voitures Exost et les virtuelles dans l'atelier
- 
+    - de pouvoir être jouer en coopération à la fin de l'atelier
+    - de pouvoir être jouer en VR pour le fun à la fin de l'atelier
+    - de pouvoir jouer avec les vrai voitures Exost comme vous l'auriez fait dans l'atelier.
 
   
