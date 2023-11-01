@@ -1,3 +1,10 @@
+![WIP](https://github.com/EloiStree/EloiStree/blob/master/Images/WIP.png)  
+Cette atelier est en construction.    
+Le document suivant n'est qu'une proposition d'atelier en construction.      
+Ce document peut encore changer à tout moment.  
+L'atelier proposé peut-être annulé au besoin de "300 Gaming Space".    
+
+--------------------
 
 # 🙌 Bonjour à vous.
 
@@ -19,6 +26,19 @@ Ce que je vous propose c'est de vous faire découvrir la simplicité de créé d
 L'atelier est atipique car je le construit pour faire germer l'envie de controller la vie qui nous entours depuis des mondes virutelles.    
 C'est la finalité des ateliers Hello Car RC.  
 C'est pour cette raison que cet atelier à une saveur porté sur la réalité mixed et l'utilisation de relay via le Bluetooth.  
+
+
+# Context d'un première atelier
+
+![image](https://github.com/EloiStree/HelloCarRC/assets/20149493/0428d78c-7bd3-43a3-9c38-2c470dd05083)
+
+Suite à une envie de créer cet atelier ( rédacteur [Éloi Strée](https://www.linkedin.com/in/eloistree/)).
+Pandathécaire et Guénaël Vande Vijver nous donnent la possibiltié d'organiser une première édition à l'espace "300 Gaming Space" de La Louvière.  
+[Chaussée Paul Houtart, 300 - 7110 Houdeng-Goegnies](https://maps.app.goo.gl/hfouJ5wBncgeBWDE7)  
+
+L'atelier serai organiser du 26 février au 1 mars (si il y a pas de changement).
+
+
 
 
 ## Durée de l'atelier
@@ -94,4 +114,39 @@ L'atelier est adapté à quatre public
     - de pouvoir être jouer en VR pour le fun à la fin de l'atelier
     - de pouvoir jouer avec les vrai voitures Exost comme vous l'auriez fait dans l'atelier.
 
-  
+
+# Contrainte de l'atelier
+
+Pour que cette atelier ai lieu. 
+Il y a des contraintes.
+
+- Minimum d'age du participants 14 ans 
+  - 10 ans si une intense envie présente d'apprendre à coder
+- Minimum de 8 participants et un maxium de 12 à 16 participants.
+- Présence d'ordinateurs avec Unity3D et Visual Studio pré-installé.
+  - L'installation peu avoir lieu durant l'atelier mais cela est déconseillé.
+  - Version Unity3D de l'atelier 2022.3.10f1
+- Les pariticipants peuvent amener leur ordinateur mais doivent avoir installer Unity3D à l'avance.
+  - Download Unity: https://unity.com/download
+
+
+
+# Nous contacter ?
+
+Si vous avez besoin de nous contacter pour cette atelier.  
+
+**Pour un support en rapport avec l'atelier:**  
+http://eloistree.github.io/r/discord  
+
+**Pour une demande professionnel en rapport avec l'atelier:**  
+https://www.linkedin.com/in/eloistree/  
+
+**Pour une demande propore à l'atelier à La Louvière:**  
+Vous pouvez contacter Guénaël via ["300 GAMING SPACE"](https://www.lalouviere.be/loisirs/culture/bibliotheques/actualites/300-gaming-space-un-pole-jeux-video-a-houdeng):
+[Chaussée Paul Houtart, 300 - 7110 Houdeng-Goegnies](https://maps.app.goo.gl/hfouJ5wBncgeBWDE7)  
+bibliothequecommunale@lalouviere.be  
+Facebook : [300gamingspace](https://www.facebook.com/300gamingspace)https://www.facebook.com/300gamingspace  
+
+
+
+
