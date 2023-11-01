@@ -25,7 +25,8 @@ Ce que je vous propose c'est de vous faire découvrir la simplicité de créé d
 
 L'atelier est atypique car je le construit pour faire germer l'envie de controller la vie qui nous entours depuis des mondes virutelles.    
 C'est la finalité des ateliers Hello Car RC.  
-C'est pour cette raison que cet atelier à une saveur porté sur la réalité mixed et l'utilisation de relay via le Bluetooth.  
+C'est pour cette raison que cet atelier à une saveur porté sur la réalité mixed et l'utilisation de relay via le Bluetooth.   
+Alors que sont contenu est un apprentissage et sa pratique est plus traditionnel avec Unity3D.    
 
 
 # Context d'un première atelier
