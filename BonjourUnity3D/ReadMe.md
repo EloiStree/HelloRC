@@ -118,7 +118,7 @@ L'atelier est adapté à quatre public
 # Contrainte de l'atelier
 
 Pour que cette atelier ai lieu. 
-Il y a des contraintes.
+Il y a des contraintes d'organisation.
 
 - Minimum d'age du participants 14 ans 
   - 10 ans si une intense envie présente d'apprendre à coder
@@ -128,7 +128,9 @@ Il y a des contraintes.
   - Version Unity3D de l'atelier 2022.3.10f1
 - Les pariticipants peuvent amener leur ordinateur mais doivent avoir installer Unity3D à l'avance.
   - Download Unity: https://unity.com/download
-
+- Présence d'un espace suffisant pour tester les voitures et le casque de réalité virtuelle à certain momement de l'atelier.
+- Présence d'un projecteur ou grand écran pour donner le cours sur place.
+- Possibilité de travailler par la SMart
 
 
 # Nous contacter ?
@@ -147,6 +149,18 @@ Vous pouvez contacter Guénaël via ["300 GAMING SPACE"](https://www.lalouviere.
 bibliothequecommunale@lalouviere.be  
 Facebook : [300gamingspace](https://www.facebook.com/300gamingspace)https://www.facebook.com/300gamingspace  
 
+
+# Re-organiser l'atelier ?
+
+Cette atelier est open source.    
+Vous avez le droit de le réorganiser si vous le désirer, ou de vous en inspirez.    
+
+Si vous désirez que je le réorganiser, de créé une variante, une amélioration de celui-ci à portée de la Belgique.    
+N'hésitez pas à me contacter.     
+
+L'atelier est organiser dans le context de la chaine: Learn By Playing in XR    
+Dont le but est d'initier la communauté à créer, coder et jouer à du contenu XR  
+[https://www.youtube.com/@LearnByPlayingInXR](https://www.youtube.com/@LearnByPlayingInXR)    
 
 
 
