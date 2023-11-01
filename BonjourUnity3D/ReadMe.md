@@ -133,7 +133,7 @@ Il y a des contraintes d'organisation.
   - Download Unity: https://unity.com/download
 - Présence d'un espace suffisant pour tester les voitures et le casque de réalité virtuelle à certain momement de l'atelier.
 - Présence d'un projecteur ou grand écran pour donner le cours sur place.
-- Possibilité de travailler par la SMart
+- Atelier organiser via la [SMart](https://smartbe.be/fr)
 
 
 # Nous contacter ?
