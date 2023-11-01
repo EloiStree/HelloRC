@@ -34,9 +34,9 @@ Alors que son contenu est un apprentissage beaucoup plus pratique et traditionne
 [![image](https://github.com/EloiStree/HelloCarRC/assets/20149493/0428d78c-7bd3-43a3-9c38-2c470dd05083)](https://www.facebook.com/300gamingspace)  
 [Facebook](https://www.facebook.com/300gamingspace) - [Site Web](https://www.lalouviere.be/loisirs/culture/bibliotheques/actualites/300-gaming-space-un-pole-jeux-video-a-houdeng)  
 
-
+ 
 Suite à une envie de créer cet atelier ( rédacteur [Éloi Strée](https://www.linkedin.com/in/eloistree/)).
-Pandathécaire et Guénaël Vande Vijver nous donnent la possibiltié d'organiser une première édition à l'espace "300 Gaming Space" de La Louvière.  
+[Dorval Alexandre](https://www.linkedin.com/in/alexandre-dorval/) et Guénaël Vande Vijver nous donnent la possibiltié d'organiser une première édition à l'espace "300 Gaming Space" de La Louvière.  
 [Chaussée Paul Houtart, 300 - 7110 Houdeng-Goegnies](https://maps.app.goo.gl/hfouJ5wBncgeBWDE7)  
 
 L'atelier serai organiser du 26 février au 1 mars (si il y a pas de changement).
