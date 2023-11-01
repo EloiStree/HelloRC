@@ -17,7 +17,7 @@ L'atelier est organiser sur 5 jours.
 - Jour 4: Atelier personnalisé dépendant du niveau des participants présents
 - Jour 5: Exporter les niveaux et voitures dans un projet commun jouable en coopération et en réalité mixed.
 
-(*) Durant l'atelier:
+Durant l'atelier:
 - Les casques de réalité virtuelle sont présent avec la démo du jeu qui sera utiliser le jour 5.
 - Les voitures Exost sont présent pour être utiliser durant les pauses et par participants plus aggéri.
   
