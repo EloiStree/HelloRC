@@ -6,7 +6,7 @@ Nous allons apprendre à créer des voitures virtuelles dans Unity3D qui se comp
 
 
 Cette atelier à un but d'apprentissage orienter vers C# et Unity3D pour débutant.  
-Un autre atelier porte plus sur la partie electirque du concepte.  
+D'autre ateliers portent plus sur la partie électrique et "internet of thing" du concepte.  
 
 ## Durée de l'atelier
 
