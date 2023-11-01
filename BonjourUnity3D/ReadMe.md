@@ -6,6 +6,14 @@ Nous allons apprendre à créer des voitures virtuelles dans Unity3D qui se comp
 Cette atelier à un but d'apprentissage orienter vers C# et Unity3D entant que débutant.  
 D'autre ateliers portent plus sur la partie électrique, hack et "internet of thing" du concepte.  
 
+Ce que je vous propose c'est de vous faire découvrir la simplicité de créé des jeux avec l'outil Unity3D.
+
+L'atelier est atipique car je le construit pour faire germer l'envie de controller la vie qui nous entours depuis des mondes virutelles.
+C'est la finalité d'atelier de Hello Car RC.
+
+C'est pour cela que cette atelier à une saveur porté sur la réalité mixed et l'utilisation de relay via le Bluetooth.
+
+
 [![image_2023-11-01_142609481-removebg-preview](https://github.com/EloiStree/HelloCarRC/assets/20149493/bc2c47b3-9094-4de9-9ede-b6926800119e)](https://amzn.to/46TTSzI)
 
 ## Durée de l'atelier
