@@ -46,7 +46,7 @@ L'atelier serai organiser du 26 février au 1 mars (si il y a pas de changement)
 
 ## Durée de l'atelier
 
-L'atelier est organiser sur 5 jours.
+L'atelier est organisé sur 5 jours.
 - Jour 1: introduction et initation à Unity3D
 - Jour 2: Personnaliser une voiture dans Unity3D et introduction aux scripts
 - Jour 3: Découvert de C# par l'utilisation de script dans Unity3D
