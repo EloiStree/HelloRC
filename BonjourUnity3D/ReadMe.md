@@ -149,7 +149,7 @@ https://www.linkedin.com/in/eloistree/
 Vous pouvez contacter Guénaël via ["300 GAMING SPACE"](https://www.lalouviere.be/loisirs/culture/bibliotheques/actualites/300-gaming-space-un-pole-jeux-video-a-houdeng) :  
 [Chaussée Paul Houtart, 300 - 7110 Houdeng-Goegnies](https://maps.app.goo.gl/hfouJ5wBncgeBWDE7)   
 bibliothequecommunale@lalouviere.be    
-Facebook : [300gamingspace](https://www.facebook.com/300gamingspace)https://www.facebook.com/300gamingspace    
+Facebook : [300 Gaming Space](https://www.facebook.com/300gamingspace)   
 
 
 # Re-organiser l'atelier ?
