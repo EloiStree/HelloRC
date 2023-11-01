@@ -8,13 +8,15 @@ D'autre ateliers portent plus sur la partie électrique, hack et "internet of th
 
 Ce que je vous propose c'est de vous faire découvrir la simplicité de créé des jeux avec l'outil Unity3D.
 
-L'atelier est atipique car je le construit pour faire germer l'envie de controller la vie qui nous entours depuis des mondes virutelles.
-C'est la finalité d'atelier de Hello Car RC.
+L'atelier est atipique car je le construit pour faire germer l'envie de controller la vie qui nous entours depuis des mondes virutelles.    
+C'est la finalité des ateliers Hello Car RC.  
 
-C'est pour cela que cette atelier à une saveur porté sur la réalité mixed et l'utilisation de relay via le Bluetooth.
+C'est pour cette raison que cet atelier à une saveur porté sur la réalité mixed et l'utilisation de relay via le Bluetooth.  
 
 
 [![image_2023-11-01_142609481-removebg-preview](https://github.com/EloiStree/HelloCarRC/assets/20149493/bc2c47b3-9094-4de9-9ede-b6926800119e)](https://amzn.to/46TTSzI)
+![image](https://github.com/EloiStree/HelloCarRC/assets/20149493/56b215f4-7948-423e-b006-cae726d0e402)
+
 
 ## Durée de l'atelier
 
