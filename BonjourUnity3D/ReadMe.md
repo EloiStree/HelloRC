@@ -24,7 +24,7 @@ Durant l'atelier:
 ## Objectif 
 - Explorer les bases de Unity3D
 - Explorer les bases de la programmation avec C#
-- Introduction à l'utilitée et simplicité du Bluetooth pour jouer avec le monde qui nous entours.
+- Mise en bouche à l'utilitée et la simplicité du Bluetooth pour jouer avec le monde qui nous entours.
 
 🎯 Le but de l'atelier n'est pas de maitriser mais d'explorer.
 😊 Pas de panique, des boites à outils sont préparées pour vous en fonction de votre niveau.
