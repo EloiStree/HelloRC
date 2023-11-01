@@ -78,7 +78,7 @@ Au plus simple:
 - Avoir créé un script C# très basique pour personnaliser la voiture.
   - Faire apparaitre des effets quand la voiture roule
   - Créer des objets autour de la voiture
-- Exporter la voiture pour être jouer ensemble
+- Exporter la voiture pour être jouer dans le même projet
   - Le jeu est jouable en coopération avec les voitures créé dans l'atelier.
   - Le jeu est jouable sur les casques de réalité mixed en solitaire.  
 
