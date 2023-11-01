@@ -12,7 +12,7 @@ D'autre ateliers portent plus sur la partie électrique et "internet of thing" d
 
 L'atelier est organiser sur 5 jours.
 - Jour 1: introduction et initation à Unity3D
-- Jour 2: Créé votre voiture dans Unity3D et introduction aux scripts
+- Jour 2: Personnaliser une voiture dans Unity3D et introduction aux scripts
 - Jour 3: Découvert de C# par l'utilisation de script dans Unity3D
 - Jour 4: Atelier personnalisé dépendant du niveau des participants présents
 - Jour 5: Exporter les niveaux et voitures dans un projet commun jouable en coopération et en réalité mixed.
