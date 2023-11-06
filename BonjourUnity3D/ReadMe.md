@@ -20,9 +20,11 @@ D'autre ateliers portent plus sur la partie électrique, hack et "internet of th
 Ce que je vous propose c'est de vous faire découvrir la simplicité de créé des jeux avec l'outil Unity3D.
 
 
-**Date de l'atelier**
+**Date de l'atelier et info**
 - [30 novembre au 4 décembre 2023, Girleek à Bruxelles](https://github.com/EloiStree/HelloCarRC/blob/main/BonjourUnity3D/Atelier_Girleek.md)
+  - https://github.com/EloiStree/HelloCarRC/blob/main/BonjourUnity3D/Atelier_Girleek.md 
 - [26 février au 1 mars, 300 Gaming Space à La Louvière](https://github.com/EloiStree/HelloCarRC/blob/main/BonjourUnity3D/Atelier_300GamingSpace.md)
+  - https://github.com/EloiStree/HelloCarRC/blob/main/BonjourUnity3D/Atelier_300GamingSpace.md 
 
 
 
