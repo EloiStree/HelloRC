@@ -2,7 +2,7 @@
 Cette atelier est en construction.    
 Le document suivant n'est qu'une proposition d'atelier en construction.      
 Ce document peut encore changer à tout moment.  
-L'atelier proposé peut-être annulé au besoin de "300 Gaming Space".    
+L'atelier proposé peut-être annulé au besoin par organisateur.     
 
 --------------------
 
