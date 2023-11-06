@@ -1,8 +1,8 @@
-![WIP](https://github.com/EloiStree/EloiStree/blob/master/Images/WIP.png)  
-Cet atelier est en construction.  
-Le document suivant n'est qu'une proposition d'atelier en construction.     
-Ce document peut encore changer à tout moment.   
-L'atelier proposé peut être annulé au besoin de "Girleek".  
+![WIP](https://github.com/EloiStree/EloiStree/blob/master/Images/WIP.png)    
+Cet atelier est en construction.    
+Le document suivant n'est qu'une proposition d'atelier en construction.       
+Ce document peut encore changer à tout moment.     
+L'atelier proposé peut être annulé au besoin de "Girleek".    
 
 ----------------------------------------
 
