@@ -141,4 +141,14 @@ Vous pouvez contacter Guénaël via ["300 GAMING SPACE"](https://www.lalouviere.
 bibliothequecommunale@lalouviere.be
 Facebook : [300 Gaming Space](https://www.facebook.com/300gamingspace)
 
-# Réorganiser l'ateli
+## Re-organiser l'atelier ?
+
+Cette atelier est open source.    
+Vous avez le droit de le réorganiser si vous le désirez, ou de vous en inspirer.    
+
+Si vous désirez que je le réorganiser, de créer une variante, une amélioration de celui-ci à portée de la Belgique.    
+N'hésitez pas à me contacter.     
+
+L'atelier est organiser dans le contexte de la chaine: Learn By Playing in XR    
+Dont le but est d'initier la communauté à créer, coder et jouer à du contenu XR  
+[https://www.youtube.com/@LearnByPlayingInXR](https://www.youtube.com/@LearnByPlayingInXR)
