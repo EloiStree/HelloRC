@@ -1,10 +1,11 @@
-![WIP](https://github.com/EloiStree/EloiStree/blob/master/Images/WIP.png)  
-Cet atelier est en construction.  
-Le document suivant n'est qu'une proposition d'atelier en construction.  
-Ce document peut encore changer à tout moment.  
-L'atelier proposé peut être annulé au besoin de "300 Gaming Space".  
+![WIP](https://github.com/EloiStree/EloiStree/blob/master/Images/WIP.png)
 
---------------------
+Cet atelier est en construction.
+Le document suivant n'est qu'une proposition d'atelier en construction.
+Ce document peut encore changer à tout moment.
+L'atelier proposé peut être annulé au besoin de "300 Gaming Space".
+
+---
 
 # 🙌 Bonjour à vous.
 
@@ -13,7 +14,7 @@ L'atelier proposé peut être annulé au besoin de "300 Gaming Space".
 Nous allons apprendre à créer des voitures virtuelles dans Unity3D qui se comportent comme des voitures de la marque Exost.
 
 Cet atelier a un but d'apprentissage orienté vers C# et Unity3D pour un niveau débutant.
-D'autres ateliers portent plus sur la partie électrique, hack et "internet of things" du concept.
+D'autres ateliers portent plus sur la partie électrique, le hacking et l'Internet des objets du concept.
 
 Ce que je vous propose, c'est de vous faire découvrir la simplicité de créer des jeux avec l'outil Unity3D.
 
@@ -25,7 +26,7 @@ C'est la finalité des ateliers Hello Car RC.
 C'est pour cette raison que cet atelier a une saveur portée sur la réalité mixte et l'utilisation de relais via le Bluetooth.
 Alors que son contenu est un apprentissage beaucoup plus pratique et traditionnel sous Unity3D.
 
-# Contexte d'un premier atelier
+## Contexte d'un premier atelier
 
 [![image](https://github.com/EloiStree/HelloCarRC/assets/20149493/0428d78c-7bd3-43a3-9c38-2c470dd05083)](https://www.facebook.com/300gamingspace)
 [Facebook](https://www.facebook.com/300gamingspace) - [Site Web](https://www.lalouviere.be/loisirs/culture/bibliotheques/actualites/300-gaming-space-un-pole-jeux-video-a-houdeng)
@@ -33,7 +34,7 @@ Alors que son contenu est un apprentissage beaucoup plus pratique et traditionne
 Suite à une envie de créer cet atelier (rédacteur [Éloi Strée](https://www.linkedin.com/in/eloistree/)), [Dorval Alexandre](https://www.linkedin.com/in/alexandre-dorval/) et Guénaël Vande Vijver nous donnent la possibilité d'organiser une première édition à l'espace "300 Gaming Space" de La Louvière.
 [Chaussée Paul Houtart, 300 - 7110 Houdeng-Goegnies](https://maps.app.goo.gl/hfouJ5wBncgeBWDE7)
 
-L'atelier serait organisé du 26 février au 1 mars (s'il n'y a pas de changement).
+L'atelier serait organisé du 26 février au 1er mars (s'il n'y a pas de changement).
 
 ## Durée de l'atelier
 
@@ -143,12 +144,12 @@ Facebook : [300 Gaming Space](https://www.facebook.com/300gamingspace)
 
 ## Re-organiser l'atelier ?
 
-Cette atelier est open source.    
-Vous avez le droit de le réorganiser si vous le désirez, ou de vous en inspirer.    
+Cet atelier est open source.
+Vous avez le droit de le réorganiser si vous le désirez, ou de vous en inspirer.
 
-Si vous désirez que je le réorganiser, de créer une variante, une amélioration de celui-ci à portée de la Belgique.    
-N'hésitez pas à me contacter.     
+Si vous désirez que je le réorganise, de créer une variante, une amélioration de celui-ci à portée de la Belgique.
+N'hésitez pas à me contacter.
 
-L'atelier est organiser dans le contexte de la chaine: Learn By Playing in XR    
-Dont le but est d'initier la communauté à créer, coder et jouer à du contenu XR  
+L'atelier est organisé dans le contexte de la chaîne : Learn By Playing in XR
+Dont le but est d'initier la communauté à créer, coder et jouer à du contenu XR
 [https://www.youtube.com/@LearnByPlayingInXR](https://www.youtube.com/@LearnByPlayingInXR)
