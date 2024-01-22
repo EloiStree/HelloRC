@@ -26,4 +26,8 @@ If you have any suggestions you want me to create workshop on feel free to conta
 https://eloistree.github.io/r/linkedin  
 
 
+---
 
+Note: You can publish your own car for the project.
+_(It also allows by learning how to use Git)_ 
+https://github.com/EloiStree/Munity_HelloCarRC  
