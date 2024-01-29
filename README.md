@@ -36,7 +36,7 @@ GitHub Repository linked to this project:
   - Unity3D https://github.com/EloiStree/2023_11_22_HelloCarRCUnity 
 - Publish your 3D models in the game
   - https://github.com/EloiStree/Munity_HelloCarRC_Assets
-- Publish your drone code in the gameµ
+- Publish your drone code in the game
   - The code run in the game
     - https://github.com/EloiStree/Munity_HelloCarRC_RuntimeBattle
   - The code run out of the game with netwroking (UDP)
@@ -44,10 +44,19 @@ GitHub Repository linked to this project:
 
 
 
+## Tip on the project
 
-Amazon Link to buy the car:    
+The project is based on toys that I hacked in real life.  
+Want to invest on the project, buy stuffs on amazon after using those links.  
+    
 Car: https://amzn.to/42lO3JY    
 Tank: https://amzn.to/3Ok4JLO  
+Drones: https://amzn.to/42psmbW
+Drone i am using: https://amzn.to/3OlEzZg
+
+
+--------------------------------------
+
 
 > You want to learn the basic of electricity or the code. Why not while having fun with RC cars :) ?
 
@@ -75,8 +84,3 @@ If you have any suggestions you want me to create workshop on feel free to conta
 https://eloistree.github.io/r/linkedin  
 
 
----
-
-Note: You can publish your own car for the project.
-_(It also allows by learning how to use Git)_ 
-https://github.com/EloiStree/Munity_HelloCarRC  
