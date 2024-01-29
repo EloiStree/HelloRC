@@ -1,5 +1,9 @@
 # Hello Car RC
 
+Amazon Link to buy the car:  
+https://amzn.to/42lO3JY  
+
+
 > You want to learn the basic of electricity or the code. Why not while having fun with RC cars :) ?
 
 Demo | Pitch FR | Hack Attempt
