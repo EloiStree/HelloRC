@@ -51,10 +51,10 @@ GitHub Repository linked to this project:
 The project is based on toys that I hacked in real life.  
 Want to invest on the project, buy stuffs on amazon after using those links.  
     
-Car: https://amzn.to/42lO3JY    
-Tank: https://amzn.to/3Ok4JLO  
-Drones: https://amzn.to/42psmbW
-Drone i am using: https://amzn.to/3OlEzZg
+Car: https://amzn.to/42lO3JY       
+Tank: https://amzn.to/3Ok4JLO    
+Drones: https://amzn.to/42psmbW  
+Drone i am using: https://amzn.to/3OlEzZg  
 
 
 --------------------------------------
