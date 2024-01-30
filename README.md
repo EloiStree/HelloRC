@@ -1,5 +1,7 @@
 # Hello Car RC
 
+![image](https://github.com/EloiStree/HelloCarRC/assets/20149493/ca0e5d66-1991-4502-9c27-1750b5d1dbd2)  
+
 ## Bonjour
 
 Bien le bonjour à vous.  
