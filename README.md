@@ -2,11 +2,11 @@
 
 ## Bonjour
 
-Bien le bonjour à vous.
-Le but de cette atelier est d'apprendre par le jeu comment coder et comment utiliser Unity3D.
+Bien le bonjour à vous.  
+Le but de cette atelier est d'apprendre par le jeu comment coder et comment utiliser Unity3D.  
 
-Je donne des cours en Francais en Belgique basé sur cette atelier.
-Mais je stream et travail en anglais sur internet.
+Je donne des cours en Francais en Belgique basé sur cette atelier.  
+Mais je stream et travail en anglais sur internet.  
 
 Si vous voulez suivre des ateliers en Français c'est par: [ici](FR)  
 Vous comprenez l'anglais:  [Let's play](EN)  
@@ -14,14 +14,14 @@ Vous comprenez l'anglais:  [Let's play](EN)
 
 ## Hello
 
-Welcome to you.
-The aim of this workshop is to learn by playing about how to code and use Unity3D.
+Welcome to you.  
+The aim of this workshop is to learn by playing about how to code and use Unity3D.  
 
-I am teaching through french workshop in Belgium with this project.
-but I am stremaing and working in english on the internet.
+I am teaching through french workshop in Belgium with this project.  
+but I am stremaing and working in english on the internet.  
 
-If you want to follow workshop in english, it is [over here >](EN)
-You understand french: [Allons joueur >](FR)
+If you want to follow workshop in english, it is [over here >](EN)  
+You understand french: [Allons joueur >](FR)  
 
 
 
