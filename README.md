@@ -72,7 +72,7 @@ Demo | Pitch FR | Hack Attempt
 My name is Éloi Strée.   
 I tried to hack flying drone toy to have fun with it.   
 But it is not as easy as I through...  
-But on the way of doing it , I learn to hack small RC cars.   
+On the way of doing it , I learn to hack small RC cars.   
 
  
 From that fact we can have fun learning with several type of workshop.
