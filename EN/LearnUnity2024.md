@@ -1,4 +1,8 @@
-Here's the corrected version of the text:
+Matière d'une proposition d'atelier sur 3 à 5 semaines pour un chômeur désirant se spécialiser à Unity3D dans l'industrie.
+
+[![image](https://github.com/EloiStree/HelloRC/assets/20149493/4c5e109f-69e9-4a09-8621-83d6b4608dee)](https://discord.com/channels/@me/1202610823638294579/1206428553621667870)
+https://discord.com/channels/@me/1202610823638294579/1206428553621667870
+
 
 Git:
 - Apprendre à utiliser ADD COMMIT PULL PUSH en ligne de commande
@@ -122,3 +126,14 @@ Publication:
 
 Chat GPT & Copilote comme dans un jeu:
 - Faire des requêtes à Open AI: Images, sons, textes, traductions...
+
+
+-----------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------
+
+# List des matières enseignées dans les précédents atelier Unity3D de Eloi
+
+En construction...
+
