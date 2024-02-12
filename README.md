@@ -93,3 +93,9 @@ https://eloistree.github.io/r/linkedin
 - Controller: Text Input on server
 - Camera: Broadcast information of the game 
 
+
+## Realtime board
+
+State of what can be teach from Hello RC:  
+https://miro.com/app/board/uXjVNuGN6Uw=/?share_link_id=673845901594
+
