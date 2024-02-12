@@ -90,18 +90,18 @@ Multijoueur:
 - Apprendre à utiliser les Websockets, qui sont utilisables depuis les sites web
 - Apprendre la différence entre WebRTC, Unet, Photon et autres systèmes multijoueurs.
 
-IA:
+IA: (Option de cours Faculatif)
 - Apprendre à coder une IA à l'ancienne (juste du code) voir CodeInGame
 - Apprendre à coder une IA à l'ancienne via des données hackées du jeu.
 - Apprendre à coder une IA sous Modl.ai qui joue à votre jeu pour le tester.
 
-Arcade Center:
+Arcade Center: (Option de cours Faculatif)
 - Apprendre à utiliser dans le contexte de Unity les Arduino, Raspberry Pi Pico et ESP32
 - Apprendre les bases de ce qu'est un composant électrique fait de boutons, de LEDs et de relais.
 - Apprendre à faire une communication UART en Bluetooth entre un Raspberry Pi Pico et un projet Unity Android
 - Apprendre à faire une communication via un câble USB entre un Raspberry Pi Pico et un projet Unity Windows
 
-Spécialisé du chef, hacking de jeu:
+Spécialisé du chef, hacking de jeu:(Option de cours Faculatif)
 - Apprendre à hacker les données d'un jeu pour créer un plotter
   - Sound Picking
   - Color Picking
@@ -112,14 +112,12 @@ Spécialisé du chef, hacking de jeu:
 
 Package Manager:
 - Apprendre à importer des outils sur GitHub avec le package manager
-- Apprendre à créer un outil Unity pour le
-
- package manager
+- Apprendre à créer un outil Unity pour le package manager
 - Apprendre à créer un groupe d'outils dépendant l'un de l'autre dans le package manager
 - Apprendre à publier son outil sur Open UPM
 - Apprendre à respecter les standards en publiant sur l'Asset Store de Unity (et être refusé)
 
-Publication:
+Publication:(Option de cours Faculatif)
 - Exploration des interfaces de publications de magasin de jeu
 - Publier sur Itch.io et SideQuest
 - Publier sur Google Play
