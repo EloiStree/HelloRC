@@ -128,6 +128,7 @@ Chat GPT & Copilote comme dans un jeu:
 
 -----------------------------------------------------------------------
 
+VR
 
 -----------------------------------------------------------------------
 
@@ -135,5 +136,24 @@ Chat GPT & Copilote comme dans un jeu:
 
 En construction...
 
+https://github.com/EloiStree/Teaching/
 
 
+Unfolding:
+
+
+
+To unfolder:
+https://github.com/EloiStree/2023_11_30_HelloGirleekQARC
+https://github.com/EloiStree/2023_11_30_HelloGirleekQARC_PackageCarRC
+
+
+Objectif de formation: 
+- https://github.com/EloiStree/Teaching/blob/master/Objectives/2017_06_26_HelloVR_Technocite.pdf
+- https://github.com/EloiStree/Teaching/blob/master/Objectives/2017_08_16_HelloVR_Interface3.pdf
+- https://github.com/EloiStree/Teaching/blob/master/Objectives/2017_11_20_HelloVR_Technobel.pdf
+  - Car board and Oculus CV1 
+- https://github.com/EloiStree/Teaching/blob/master/Objectives/2017_10_30_UnityIn100Days_Technifutur.pdf
+
+
+- 100J Objectifs : https://github.com/EloiStree/HelloUnity/wiki/Objectives#participants
