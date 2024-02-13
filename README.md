@@ -34,6 +34,7 @@ GitHub Repository linked to this project:
 
 - Project guide:
   - https://github.com/EloiStree/HelloCarRC
+  - https://github.com/EloiStree/HelloCarRcFromScratch
 - Project code:
   - Unity3D https://github.com/EloiStree/2023_11_22_HelloCarRCUnity 
 - Publish your 3D models in the game
