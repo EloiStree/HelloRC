@@ -52,6 +52,13 @@ Scratch:
 - Create a controller in Scratch that will be use in the following workshops
 - Learn to extract the cloud variable from Python library
 
+RTFML, LMGTFY Chat GPT and Copilote
+- As in all my workshop, a reminder is given to the student about self teaching from
+  - Reading manual
+  - Searching keyword in Chat GPT to know what to look for on google
+  - Learn to talk to Chat GPT and/or Copilote to squeeze what you need to learn next.
+  - Use Chat GPT to generate cheat sheet on topic we will learn during the workshop.
+
  Python:
 - Pratice what had been learn in Scratch as code in Python
 - Learn to send UDP and Websocket to the "Hello RC" game
@@ -148,6 +155,7 @@ The final:
 - Note: Matches of the tournament are recorder and replayable in after the tournament.
 
 
+
 Optional Workshop, Arcade center:
 - Learn to use Arduino and Raspberry Pi Pico from a bluetooth connection.
 - Learn how to use relay to hack motor and inject action in existing hardware
@@ -155,6 +163,16 @@ Optional Workshop, Arcade center:
 - Learn to track the position of such objects with position tracker (new vive tracker) or Vuforia.
 - Learn a bit of electricity basic knowledge by lighting a color led and read sensors fixed on the vehicule.
 
+
+Optional Workshop, Open AI:
+- Learn to use REST API in XR to use:
+  - Whisper as vocal command
+  - Whisper as TTS voice
+  - Dall-E to generate NPC avatar at runtime
+  - Chat GPT to generate random text for the NPC
+  - Chat GPT to translate in the wanted language in the mini game
+  - Learn to generate a mini DB of variation of each texts and avatars in the editor for the game designer
+    
 
  
 
