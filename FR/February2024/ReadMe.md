@@ -11,8 +11,9 @@ La semaine en post-in:
 [Day 3:](https://github.com/EloiStree/HelloRC/blob/main/FR/February2024/2024_02_28_Day3.md) MonoBehaviour et scripting   
 [Day 4:](https://github.com/EloiStree/HelloRC/blob/main/FR/February2024/2024_02_29_Day4.md) Shader Graph et les particules  
 [Day 5:](https://github.com/EloiStree/HelloRC/blob/main/FR/February2024/2024_03_01_Day5.md) Réalité mixed, Drone et HeRC Tournoi    
-[Bonus:](https://github.com/EloiStree/HelloRC/blob/main/FR/February2024/UART.md) Bluetooth & UART    
-[Bonus:](https://github.com/EloiStree/HelloRC/blob/main/FR/February2024/ScratchToUART.md) Scratch to real life    
+
+[Side topic:](https://github.com/EloiStree/HelloRC/blob/main/FR/February2024/UART.md) Bluetooth & UART    
+[Side topic:](https://github.com/EloiStree/HelloRC/blob/main/FR/February2024/ScratchToUART.md) Scratch to real life    
 
 
 # Introduction
