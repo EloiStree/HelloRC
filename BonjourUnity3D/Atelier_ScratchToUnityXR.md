@@ -1,6 +1,8 @@
 
 # Hello RC workshop proposition
 
+![image](https://github.com/EloiStree/HelloRC/assets/20149493/acb24fa5-8d41-41fa-8f73-77622d9faff7)
+
 **Workshop Duration:** 
 - minimum 3 weeks: Remove topic and compress time to pratice
 - best 5 weeks: Not time to stop but enough time to pratice
