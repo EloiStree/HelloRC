@@ -8,7 +8,7 @@
 - Maximum 8: Allows exploration of side topics asked by participants.
 
 **Requirements, the will to:**
-- Code basics or review the basics
+- Learn to become developer
 - Learn Unity3D for Android OS
 - (Optionally) XR & Spatial computing
 - (Optionally) Old AI & Neural AI
@@ -95,6 +95,10 @@ _No "advance" Unity here because it will be practiced in the following milestone
 - Learn to use ADB and its options to record and configure the phone and their XR headset.
 - Practice by making an Android client that listens to the server information on Android and allows playing a range of code logic of the AI of the participant.
 
+## Power of a Toolbox:
+- Learn to create a toolbox in Unity3D, publish on GitHub, and release on OpenUPM.
+- Learn to create toolbox groups that can work in reference to each other during the following XR workshop.
+
 ### XR:
 - Play a range of representative games in VR and XR on Quest 2/3 or other devices available.
   - "XR can't be taught to someone that never tried it"
@@ -108,9 +112,7 @@ _No "advance" Unity here because it will be practiced in the following milestone
 - Learn to navigate in the Meta Quest OS and unlock the developer mode
 - Learn to create a branch of the Open XR client they coded into a native adaptation for Meta Quest 1-3
 - Learn what additional information they can use to set up an augmented room scale environment.
-- Learn a range of anchoring systems: guardian, triangulation, native anchor,
-
- room anchored
+- Learn a range of anchoring systems: guardian, triangulation, native anchor, room anchor...
 - Make a mini-jam where the level is anchored to the room
 
 ### XR, Native, Lynx R1:
@@ -123,7 +125,7 @@ _No "advance" Unity here because it will be practiced in the following milestone
 - Learn to adapt the design of the game created earlier to work on devices that don't own features of others.
 - Learn about existing toolboxes: ToolKit vs MRTK vs VRTK vs native toolkit... vs buyable tools
 - Learn about what you will be expected to produce for publication on the store if you choose multiple platforms.
-  - Learn to publish on Itch.io, SideQuest, and Google Play.
+  - Pratice by learning how to publish on Itch.io, SideQuest, and Google Play.
 
 ### Spatial Computing, CPU & GPU:
 - Learn the use of GPU to manage the mesh given by Vision pro, AR camera, and Quest 3
@@ -169,6 +171,7 @@ Depending on collaborators able to teach AI
 
 
 ## Read Me
+
 > If you read this, it means that you have/had at least a minimum of curiosity for this workshop proposition.
 > I would be happy to have a coffee talk online. Feel free to contact me.
 > LinkedIn: [Eloi Stree](https://www.linkedin.com/in/eloistree/) - Discord: [EloiStree Discord](https://eloistree.github.io/r/discord)
