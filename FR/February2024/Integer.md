@@ -1,0 +1,2 @@
+[![image](https://github.com/EloiStree/HelloRC/assets/20149493/f1503883-14b3-438c-9173-32744648b95b)](https://softuni.org/dev-concepts/data-representation-in-computer-memory/#:~:text=Integer%20numbers%20are%20represented%20in,a%20positive%2C%20or%20negative%20value.)  
+https://softuni.org/dev-concepts/data-representation-in-computer-memory/#:~:text=Integer%20numbers%20are%20represented%20in,a%20positive%2C%20or%20negative%20value.  
