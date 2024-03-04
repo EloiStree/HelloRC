@@ -4,10 +4,10 @@ Pour le moment, Current:  https://github.com/EloiStree/HelloRC/tree/main/FR/Febr
 
 # Hello Car RC
 
+
+![EloiTeachingHelloRC](https://github.com/EloiStree/HelloRC/assets/20149493/e59ed9d9-450e-4c9c-bd2c-89ae772f82f4)  
 **EN:** Discover programming through group gaming experiences with code tournaments, made interactive in augmented reality and available for streaming.  
 **FR:** Découvrir la programmation à travers des expériences ludiques en groupe avec des tournois de code, rendus interactifs en réalité augmentée et disponibles en streaming.   
-![EloiTeachingHelloRC](https://github.com/EloiStree/HelloRC/assets/20149493/e59ed9d9-450e-4c9c-bd2c-89ae772f82f4)
-
 
 ## Bonjour
 
