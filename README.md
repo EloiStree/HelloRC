@@ -1,6 +1,4 @@
-Pour le moment, Current:  https://github.com/EloiStree/HelloRC/tree/main/FR/February2024
 
---------------------------
 
 # Hello Car RC
 
