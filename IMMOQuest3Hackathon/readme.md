@@ -1,3 +1,7 @@
 Yo.
 
-https://devpost.com/submit-to/20141-meta-quest-presence-platform-hackathon-2024/manage/submissions/495181-immo-drone-dojo/project_details/edit
+Contest : https://devpost.com/submit-to/20141-meta-quest-presence-platform-hackathon-2024/manage/submissions/495181-immo-drone-dojo/project_details/edit
+MR: https://developer.oculus.com/documentation/native/android/mobile-passthrough-over-link/
+Presence: Meta XR Haptics SDK : https://assetstore.unity.com/packages/tools/integration/meta-xr-haptics-sdk-272446
+
+
